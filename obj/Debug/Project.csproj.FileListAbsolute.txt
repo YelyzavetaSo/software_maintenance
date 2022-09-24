@@ -1,0 +1,7 @@
+C:\NAU\7 семестр\Супровід ПЗ\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\NAU\7 семестр\Супровід ПЗ\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\NAU\7 семестр\Супровід ПЗ\Project\bin\Debug\Project.exe.config
+C:\NAU\7 семестр\Супровід ПЗ\Project\bin\Debug\Project.exe
+C:\NAU\7 семестр\Супровід ПЗ\Project\bin\Debug\Project.pdb
+C:\NAU\7 семестр\Супровід ПЗ\Project\obj\Debug\Project.exe
+C:\NAU\7 семестр\Супровід ПЗ\Project\obj\Debug\Project.pdb
